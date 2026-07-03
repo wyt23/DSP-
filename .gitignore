@@ -1,0 +1,15 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Audio outputs and temporary files
+noisy.wav
+denoised.wav
+*.wav
+*.mp3
+*.m4a
+
+# OS files
+.DS_Store
+Thumbs.db
